@@ -28,7 +28,7 @@ The goal of this 100-day sprint is to transition from core mathematical foundati
 - **Tooling & Environments:** Set up Python 3, VS Code, Git/GitHub, and PyTorch environment.
 - **Deep Learning Kickoff:** PyTorch 60-Minute Blitz, tensors & autograd practice, fast.ai Lessons 1 & 2.
 - **AI Safety Initiation:** Enroll in BlueDot AISF; cover Transformative AI trajectories.
-- **Interactive Proving Setup:** Install Lean 4 and configure VS Code.
+- **Interactive Proving Setup:** Install Lean 4 and configure VS Code or pycharm
 
 ### Phase 2: Deep Learning & Alignment Core (Days 17–44 | Weeks 3–6)
 *Focus: Neural network mechanics, transformer architectures, outer/inner alignment, and neural verification.*

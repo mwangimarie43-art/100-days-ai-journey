@@ -1,7 +1,6 @@
 # 100 Days of AI Safety, Alignment & Formal Verification
 
 An intensive, structured 100-day roadmap bridging undergraduate mathematics and computational methods with frontier AI alignment, mechanistic interpretability, and formal verification.
-
 ---
 
 ## 🎯 Mission & Objectives

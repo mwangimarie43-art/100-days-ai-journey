@@ -82,3 +82,4 @@ Daily progress is tracked via the accompanying `100-Day Tracker` spreadsheet:
 - **`Done`**: Task completed and committed to repository.
 - **`In Progress`**: Ongoing implementation or multi-day experiment.
 - **`Skipped`**: Moved to buffer days in Week 14 to preserve overall velocity.
+- **'
